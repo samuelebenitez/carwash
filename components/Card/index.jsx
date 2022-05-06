@@ -3,7 +3,8 @@ import Image from "next/image";
 import plusIcon from "../../assets/plusIcon.svg";
 
 import { useContext } from "react";
-import { Store } from "../../utils/Store";
+
+import { Store } from "../../utils/store.js";
 
 export default function Card({ prod, addToCartHandler }) {
   const { id, description, name, img, price } = prod;

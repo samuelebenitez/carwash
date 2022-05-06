@@ -1,7 +1,7 @@
 import { Box, Heading, Button, VStack } from "@chakra-ui/react";
-import Image from "next/Image";
+import Image from "next/image";
 import carSVG from "../assets/car-wash.svg";
-import Link from "next/Link";
+import Link from "next/link";
 import { useBreakpointValue } from "@chakra-ui/react";
 
 function Home() {

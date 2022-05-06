@@ -1,6 +1,6 @@
 import { ChakraProvider, Fade } from "@chakra-ui/react";
 
-import { StoreProvider } from "../utils/Store";
+import { StoreProvider } from "../utils/store.js";
 
 function MyApp({ Component, pageProps, router }) {
   return (
