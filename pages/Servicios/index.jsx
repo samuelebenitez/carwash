@@ -27,7 +27,7 @@ export default function Servicios() {
       subTotal = subTotal + item.price;
       return subTotal;
     });
-    console.log(subTotal);
+    return subTotal;
   }
 
   return (
@@ -55,7 +55,7 @@ export default function Servicios() {
           <Image src={cartIcon} w="32px" h="32px" alt="" />
         </Button>
         <Link passHref href="/Adios">
-          <Button w="90vw">Cobrar {subTotal()}</Button>
+          <Button w="90vw">Cobrar ${subTotal()}</Button>
         </Link>
       </InputGroup>
     </Box>
