@@ -1,5 +1,5 @@
 import { Box, Heading, Button } from "@chakra-ui/react";
-import Image from "next/Image";
+import Image from "next/image";
 import carBye from "../../assets/carBye.svg";
 import { useBreakpointValue } from "@chakra-ui/react";
 import refreshIcon from "../../assets/refreshIcon.svg";

@@ -1,5 +1,5 @@
 import { Text, Flex, Box, Heading, Button } from "@chakra-ui/react";
-import Image from "next/Image";
+import Image from "next/image";
 import plusIcon from "../../assets/plusIcon.svg";
 
 import { useContext } from "react";
