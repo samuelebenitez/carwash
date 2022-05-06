@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "name": "LAVADO Y SECADO",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Animi ex libero quaerat beatae recusandae eligendi. Deleniti rerum commodi voluptatum molestiae?",
+    "price": 2500,
+    "img": ""
+  },
+  {
+    "id": "2",
+    "name": "LAVADO, SECADO Y ENCERADO",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Animi ex libero quaerat beatae recusandae eligendi. Deleniti rerum commodi voluptatum molestiae?",
+    "price": 2500,
+    "img": ""
+  },
+  {
+    "id": "3",
+    "name": "LAVADO",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Animi ex libero quaerat beatae recusandae eligendi. Deleniti rerum commodi voluptatum molestiae?",
+    "price": 2500,
+    "img": ""
+  },
+  {
+    "id": "4",
+    "name": "ENCERADO",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Animi ex libero quaerat beatae recusandae eligendi. Deleniti rerum commodi voluptatum molestiae?",
+    "price": 2500,
+    "img": ""
+  },
+  {
+    "id": "5",
+    "name": "LAVADO Y SECADO",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Animi ex libero quaerat beatae recusandae eligendi. Deleniti rerum commodi voluptatum molestiae?",
+    "price": 2500,
+    "img": ""
+  },
+  {
+    "id": "6",
+    "name": "LAVADO Y SECADO",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Animi ex libero quaerat beatae recusandae eligendi. Deleniti rerum commodi voluptatum molestiae?",
+    "price": 2500,
+    "img": ""
+  }
+]
