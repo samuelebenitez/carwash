@@ -2,10 +2,10 @@ import { Box, InputGroup, Grid, Button } from "@chakra-ui/react";
 import Card from "../../components/Card/index.jsx";
 import Link from "next/link";
 import cartIcon from "../../assets/cartIcon.svg";
-import Image from "next/Image";
+import Image from "next/image";
 import products from "../../products/products.json";
 import { useContext } from "react";
-import { Store } from "../../utils/Store";
+import { Store } from "../../utils/store.js";
 
 export default function Servicios() {
   const { state, dispatch } = useContext(Store);
